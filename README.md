@@ -1,7 +1,3 @@
-@mulker95
-https://github.com/mulker95
-git commit-m "@mulker95"
-
 
 
 # [Material Dashboard 2 React NodeJS API](https://material-dashboard-react-nodejs.creative-tim.com) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?text=Check%20Material%20Dashboard%20%20PRO%20React%20made%20by%20%40CreativeTim%20and%20%40UPDIVISION%20%23webdesign%20%23dashboard%20%23react%20%23mui&url=https%3A%2F%2Fwww.creative-tim.com%2Fproduct%2Fmaterial-dashboard-react-node)
